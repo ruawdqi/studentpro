@@ -1,10 +1,10 @@
 package com.nnxy.model;
 
 public class Student {
-	private int id;
-	private String username;
-	private String password;
-	private int sex;
+	private int id; //唯一ID
+	private String username;//姓名
+	private String password;//密码
+	private int sex;//性别
 	
 	
 	
